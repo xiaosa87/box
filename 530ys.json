@@ -146,6 +146,21 @@
       "ext": "http://47.99.102.252/drpy_js/%E5%B0%8F%E7%86%8A.js"
     },
     {
+      "key": "西瓜视频",
+      "name": "🍉西瓜┃视频┃纯净",
+      "type": 3,
+      "api": "csp_AmuXiguaV2",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      }
+    },
+    {
       "key": "88看球",
       "name": "🏀看球┃直播",
       "type": 3,
