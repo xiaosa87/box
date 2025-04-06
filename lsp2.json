@@ -5,6 +5,17 @@
 	"spider": "https://gitlab.com/duomv/dzhipy/-/raw/main//jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
 	"sites": [
 		{
+			"key": "hipy_js_36直播[密]",
+			"name": "36直播[密](drpy_t3)",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/36直播[密].js"
+		},
+		{
 			"key": "hipy_js_采集之王[合]1",
 			"name": "采王zy[密](drpy_t3)",
 			"type": 3,
@@ -16,6 +27,17 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/采集之王[合].js?type=url&params=../json/采集[zy]静态.json$1"
 		},
 		{
+			"key": "hipy_js_xvideos涩涩[密]",
+			"name": "xvideos涩涩[密](drpy_t3)",
+			"type": 3,
+			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/xvideos涩涩[密].js"
+		},
+		{
 			"key": "hipy_js_01看球[球]",
 			"name": "01看球[球](drpy_t3)",
 			"type": 3,
@@ -25,28 +47,6 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/01看球[球].js"
-		},
-		{
-			"key": "hipy_js_4K-AV",
-			"name": "4K-AV(drpy_t3)",
-			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/4K-AV.js"
-		},
-		{
-			"key": "hipy_js_36直播[密]",
-			"name": "36直播[密](drpy_t3)",
-			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/36直播[密].js"
 		},
 		{
 			"key": "hipy_js_310直播[球]",
@@ -82,15 +82,15 @@
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/926tv[球].js"
 		},
 		{
-			"key": "hipy_js_xvideos涩涩[密]",
-			"name": "xvideos涩涩[密](drpy_t3)",
+			"key": "hipy_js_4K-AV",
+			"name": "4K-AV(drpy_t3)",
 			"type": 3,
 			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/xvideos涩涩[密].js"
+			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/4K-AV.js"
 		}
 	],
 	"parses": [
